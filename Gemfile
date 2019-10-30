@@ -17,7 +17,7 @@ gem 'turbolinks',              '5.0.1'
 gem 'jbuilder',                '2.7.0'
 gem 'omniauth'
 gem 'omniauth-facebook'
-gem 'dotenv-rails', groups: [:development, :test]
+gem 'devise'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
